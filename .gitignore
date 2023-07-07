@@ -1,0 +1,4 @@
+*.xlsx
+*.csv
+*.parquet
+hub/TS6/data/raw/household_power_consumption.txt
